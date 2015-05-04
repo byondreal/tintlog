@@ -1,5 +1,5 @@
 {
-  "name": "@byondreal/logger.js",
+  "name": "@byondreal/logger",
   "version": "1.0.0",
   "description": "World's smallest JavaScript logging provider",
   "main": "index.js",
