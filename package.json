@@ -1,0 +1,24 @@
+{
+  "name": "@byondreal/logger.js",
+  "version": "1.0.0",
+  "description": "World's smallest JavaScript logging provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byondreal/logger.js"
+  },
+  "keywords": [
+    "logger",
+    "class",
+    "mixin"
+  ],
+  "author": "ByondReal Dev <dev@byondreal.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byondreal/logger.js/issues"
+  },
+  "homepage": "https://github.com/byondreal/logger.js"
+}
