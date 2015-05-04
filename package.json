@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/byondreal/logger.js/issues"
   },
-  "homepage": "https://github.com/byondreal/logger.js"
+  "homepage": "https://github.com/byondreal/logger.js",
+  "devDependencies": {
+    "sinon": "^1.14.1"
+  }
 }
