@@ -1,6 +1,6 @@
 {
   "name": "tintlog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "World's smallest colorful JavaScript logging provider",
   "main": "index.js",
   "scripts": {
