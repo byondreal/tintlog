@@ -16,6 +16,9 @@
     "mixin"
   ],
   "author": "ByondReal Dev <dev@byondreal.net>",
+  "contributors": [
+    "Anup Bishnoi <pixelsallover@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/byondreal/tintlog/issues"
