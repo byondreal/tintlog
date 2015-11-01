@@ -1,14 +1,14 @@
 {
-  "name": "@byondreal/logger",
+  "name": "tintlog",
   "version": "1.0.0",
-  "description": "World's smallest JavaScript logging provider",
+  "description": "World's smallest colorful JavaScript logging provider",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/byondreal/logger.js"
+    "url": "https://github.com/byondreal/tintlog"
   },
   "keywords": [
     "logger",
@@ -18,9 +18,9 @@
   "author": "ByondReal Dev <dev@byondreal.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/byondreal/logger.js/issues"
+    "url": "https://github.com/byondreal/tintlog/issues"
   },
-  "homepage": "https://github.com/byondreal/logger.js",
+  "homepage": "https://github.com/byondreal/tintlog",
   "devDependencies": {
     "sinon": "^1.14.1"
   }
