@@ -1,29 +1,27 @@
-# logger.js
+# tintlog
 Namespaced and colorful JavaScript console logs!
 
 ## Install
 
-    npm install @byondreal/logger
+    npm install --save tintlog
 
 ## Usage
 
-    var Logger = require('@byondreal/logger');
+    var Tintlog = require('tintlog');
     var obj = {};
-    Logger.call(obj, 'namespace');
+    Tintlog.call(obj, 'namespace');
     
-    obj.log('Namespaced log #1!');
+    obj.log('Namespaced log #1');
 
-Shows colored and namespaced log as below:
-
-![Colored, namespaced log]()
+Shows colored and namespaced logs on console!
 
 ## Features
 
-- Disable/re-enable with `Logger.disable()` and `Logger.enable()`
+- Disable/re-enable with `Tintlog.disable()` and `Tintlog.enable()`
 - Initializing with different namespaces cycles through different
   colors
+- Initializing with the same namespace again will preserve the
+  original color used for that namespace (unlike [debug][1])
 
-## Example
-
-![Multiple logs example]()
+[1] - https://www.npmjs.com/package/debug
 
