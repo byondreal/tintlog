@@ -21,7 +21,7 @@ Shows colored and namespaced logs on console!
 - Initializing with different namespaces cycles through different
   colors
 - Initializing with the same namespace again will preserve the
-  original color used for that namespace (unlike [debug][1])
+  original color used for that namespace (unlike [debug][debug-npm])
 
-[1] - https://www.npmjs.com/package/debug
+[debug-npm]: https://www.npmjs.com/package/debug
 
