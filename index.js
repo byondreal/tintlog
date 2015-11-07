@@ -1,6 +1,7 @@
 var colors = [
-    '#B28272', '#CC76A1', '#DD9296', '#87B38D', '#828AB0', '#5B6195',
-    '#9BB291', '#5D8A79', '#3D4656', '#D7A954', '#8D714C'
+    'lightseagreen', 'forestgreen', 'goldenrod', 'dodgerblue', 'darkorchid', 'crimson',
+    '#9BB291', '#5D8A79', '#3D4656', '#D7A954', '#8D714C',
+    '#B28272', '#CC76A1', '#DD9296', '#87B38D', '#828AB0', '#5B6195'
   ],
   colorMaps = {},
   colorIndex = 0,
